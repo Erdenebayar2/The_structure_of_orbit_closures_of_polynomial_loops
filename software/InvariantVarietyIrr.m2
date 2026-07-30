@@ -10,8 +10,6 @@ while i<n do(
 	initialvalueprime_i =initialvalue_i;
 	i=i+1;
 );
----print(initialvalueprime_0);
----print("fine");
 A = {x_1=>initialvalueprime_0};
 t =  2;
 print("fine");
@@ -21,16 +19,10 @@ while t<n+1 do(
 	);
 i=0;
 invariety =0;
----print(length(girr));
----print("after girr");
 while i<length(girr) do(
-	---print(sub(girr_i,A));
-	print("entered");
 	invariety =invariety+(sub(girr_i,A))^2;
 	i = i+1;
 );
----print(invariety);
-print("here");
 soutside =0;
 while invariety != 0 do(
 	invariety =0;
@@ -66,9 +58,6 @@ changevar = {};
 for i from 1 to n do (
     changevar = join(changevar, {y_i=>x_i});
 );
----print(changevar);
----print(xList);
----print(initialvaluecorrect);
 Pirr_0 = girr;
 r =0;
 h = girr;
