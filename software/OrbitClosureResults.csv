@@ -1,3 +1,0 @@
-Input,Integer,Status,Wall time,Orbit closure,Log file
-"loops/yagzhev9.m2",6,"Success",3.202,"{.31302790500000022p53,{0,{{x_7-x_8+7,x_2-x_4+x_6,x_1-x_3+x_5}}}}","/tmp/M2-11564-0/0-orbitclosure-0/job_0.log"
-"loops/yagzhev9.m2",5,"Timeout",60.112,"","/tmp/M2-11564-0/1-orbitclosure-1/job_1.log"
