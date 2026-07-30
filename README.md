@@ -55,10 +55,7 @@ When the generators of a maximal component are known, run:
 
 ```macaulay2
 load "main.m2"
-InvariantVarietyIrr(
-    "loops/<loop-name>.m2",
-    <generators-of-maximal-component>
-)
+InvariantVarietyIrr("loops/<loop-name>.m2",<generators-of-maximal-component>)
 ```
 
 The output consists of two entries:
