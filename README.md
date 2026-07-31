@@ -11,12 +11,12 @@ The algorithms are presented in:
 
 ## Repository Structure
 
-The [`software`](software) directory contains an ongoing implementation of Algorithms 1 and 2 in [Macaulay2](https://macaulay2.com/).
+The software directory contains an ongoing implementation of Algorithms 1 and 2 in [Macaulay2](https://macaulay2.com/).
 
 It includes:
 
 - the source code for the algorithms;
-- a [`loops`](software/loops) directory containing polynomial-loop examples, such as `ex2.m2`.
+- a loop directory containing polynomial-loop examples, such as `ex2.m2`.
 
 ## Usage
 
