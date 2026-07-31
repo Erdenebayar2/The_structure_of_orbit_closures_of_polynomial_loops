@@ -7,8 +7,7 @@ A prototype implementation of new algorithms for computing the ideal of the orbi
 
 The algorithms are presented in:
 
-> **The Structure of Orbit Closures of Polynomial Loops**  
-> E. Bayarmagnai, F. Mohammadi, and R. Prébet
+> **The Structure of Orbit Closures of Polynomial Loops**
 
 ## Repository Structure
 
