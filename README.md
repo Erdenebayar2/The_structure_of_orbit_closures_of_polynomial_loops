@@ -1,4 +1,4 @@
-# Orbit Closures of Polynomial Loops
+# The orbit closures of simple polynomial loops
 
 A prototype implementation of new algorithms for computing the ideal of the orbit closure of a polynomial loop when either:
 
