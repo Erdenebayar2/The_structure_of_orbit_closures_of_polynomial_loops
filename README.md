@@ -7,7 +7,7 @@ A prototype implementation of new algorithms for computing the ideal of the orbi
 
 The algorithms are presented in:
 
-> **# Orbit Closures of Polynomial Loops
+> ** Orbit Closures of Polynomial Loops
 
 A prototype implementation of new algorithms for computing the ideal of the orbit closure of a polynomial loop when either:
 
